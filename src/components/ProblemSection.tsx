@@ -29,7 +29,7 @@ const ProblemSection = () => {
             <span className="text-primary">Booking Sports Facilities?</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            We know the struggle. That's why we built SportBook to solve these everyday frustrations.
+            We know the struggle. That's why we built BookaPlay to solve these everyday frustrations.
           </p>
         </div>
 

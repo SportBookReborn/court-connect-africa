@@ -29,7 +29,7 @@ const SignupSection = () => {
     setSubmitted(true);
     toast({
       title: "Success!",
-      description: "You're on the early access list. We'll notify you when SportBook launches!",
+      description: "You're on the early access list. We'll notify you when BookaPlay launches!",
     });
   };
 
@@ -47,7 +47,7 @@ const SignupSection = () => {
             </h2>
             
             <p className="text-xl text-muted-foreground mb-8">
-              Welcome to the SportBook early access list. We'll send you updates and notify you 
+              Welcome to the BookaPlay early access list. We'll send you updates and notify you 
               when we launch in Nairobi and beyond.
             </p>
             

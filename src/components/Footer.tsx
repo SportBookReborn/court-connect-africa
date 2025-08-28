@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 items-start">
           {/* Logo and Tagline */}
           <div>
-            <h3 className="text-2xl font-bold mb-2">SportBook</h3>
+            <h3 className="text-2xl font-bold mb-2">BookaPlay</h3>
             <p className="text-primary-foreground/80 mb-6">
               Book Courts. Reserve Pitches. Play More.
             </p>
@@ -27,7 +27,7 @@ const Footer = () => {
               </li>
               <li>
                 <a 
-                  href="mailto:hello@sportbook.app" 
+                  href="mailto:hello@bookaplay.app" 
                   className="hover:text-primary-foreground transition-colors flex items-center gap-2"
                 >
                   <Mail className="w-4 h-4" />
@@ -73,7 +73,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2025 SportBook. All rights reserved. Made with ❤️ in Kenya.
+            © 2025 BookaPlay. All rights reserved. Made with ❤️ in Kenya.
           </p>
         </div>
       </div>
